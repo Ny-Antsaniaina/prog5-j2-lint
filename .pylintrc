@@ -5,16 +5,13 @@ ignore=venv
 max-line-length=120
 
 [BASIC]
-
 class-naming-style=PascalCase
-
 function-naming-style=camelCase
 method-naming-style=camelCase
-
 variable-naming-style=camelCase
-
+argument-naming-style=camelCase
+attr-naming-style=camelCase
 const-naming-style=UPPER_CASE
-
 good-names=i,j,k,x,y,z,id
 
 [DESIGN]
