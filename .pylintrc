@@ -20,3 +20,12 @@ good-names=i,j,k,x,y,z,id
 [DESIGN]
 
 min-public-methods=0
+
+[MESSAGES CONTROL]
+
+disable=
+    missing-module-docstring,
+    missing-class-docstring,
+    missing-function-docstring,
+    trailing-whitespace,
+    missing-final-newline
